@@ -1,0 +1,7 @@
+{
+  "storage": {"public_access": false},
+  "logging": {"enabled": true},
+  "identity": {"mfa_required": true, "least_privilege": false},
+  "encryption": {"at_rest": true, "in_transit": true},
+  "backup": {"enabled": true}
+}
