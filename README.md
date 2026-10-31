@@ -1,3 +1,5 @@
+![Python checks](https://github.com/leakquicked/cloudsec-checklist/actions/workflows/python-checks.yml/badge.svg)
+
 # CloudSec Checklist
 
 Offline, provider-neutral checklist for reviewing a **sanitized JSON snapshot** of cloud security settings.
